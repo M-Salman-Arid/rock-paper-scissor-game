@@ -1,0 +1,33 @@
+
+body {
+  background-color: #191919;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+}
+
+.title {
+  font-weight: bold;
+}
+
+.pick-move {
+  background-color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 10px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.rest-btn {
+  background-color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 10px;
+  font-size: 20px;
+  cursor: pointer;
+}
